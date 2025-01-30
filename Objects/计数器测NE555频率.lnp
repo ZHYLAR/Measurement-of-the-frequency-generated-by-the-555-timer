@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\Delay.obj",
+".\Objects\HC138.obj",
+".\Objects\SMG.obj",
+".\Objects\Timer.obj" 
+TO ".\Objects\计数器测NE555频率" 
+PRINT(".\Listings\计数器测NE555频率.m51") RAMSIZE(256) 
